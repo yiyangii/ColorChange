@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">La4color</string>
+    <string name="app_name">Color Change</string>
+    <string name="labelCanvas">Canvas Activity</string>
+    <string name="labelPalette">Palette Activity</string>
+    <string name="Red">Red</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Black">Black</string>
+    <string name="White">White</string>
+    <string name="Gray">Gray</string>
+    <string name="LightGray">Light Gray</string>
+    <string name="DKGray">DK Gray</string>
+    <string name="Cyan">Cyan</string>
+    <string name="Magenta">Magenta</string>
+    <string name="Transparent">Transparent</string>
+    <string name="intro">c</string>
+    <string-array name="Colors">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Gray</item>
+        <item>Light Gray</item>
+        <item>Dark Gray</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Transparent</item>
+    </string-array>
+
 </resources>

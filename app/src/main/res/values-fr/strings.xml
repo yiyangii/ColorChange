@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+        <string name="app_name">Changement de couleur</string>
+        <string name="labelCanvas">Activité de toile</string>
+        <string name="labelPalette">Activité de la palette</string>
+        <string name="Red">rouge</string>
+        <string name="Yellow">Jaune</string>
+        <string name="Green">Vert</string>
+        <string name="Blue">Bleu</string>
+        <string name="Black">Noir</string>
+        <string name="White">Blanc</string>
+        <string name="Gray">Gris</string>
+        <string name="LightGray">Gris clair</string>
+        <string name="DKGray">Gris foncé</string>
+        <string name="Cyan">Cyan</string>
+        <string name="Magenta">Magenta</string>
+        <string name="Transparent">Transparente</string>
+        <string name="intro">Choisir une couleur</string>
+        <string-array name="Colors">
+            <item>Rouge</item>
+            <item>Jaune</item>
+            <item>Vert</item>
+            <item>Bleu</item>
+            <item>Noir</item>
+            <item>Blanc</item>
+            <item>Gris</item>
+            <item>Gris clair</item>
+            <item>Gris foncé</item>
+            <item>Cyan</item>
+            <item>Magenta</item>
+            <item>Transparente</item>
+        </string-array>
+
+
+</resources>
