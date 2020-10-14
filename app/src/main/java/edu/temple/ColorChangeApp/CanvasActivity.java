@@ -10,6 +10,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 
 public class CanvasActivity extends AppCompatActivity {
     ConstraintLayout gridlayout;
+    //rename
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
