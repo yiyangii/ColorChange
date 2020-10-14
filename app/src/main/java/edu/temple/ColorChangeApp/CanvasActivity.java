@@ -1,6 +1,5 @@
-package edu.temple.la4color;
+package edu.temple.ColorChangeApp;
 
-import android.app.AppComponentFactory;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;

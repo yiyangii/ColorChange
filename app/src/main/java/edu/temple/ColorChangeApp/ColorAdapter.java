@@ -1,4 +1,4 @@
-package edu.temple.la4color;
+package edu.temple.ColorChangeApp;
 
 import android.content.Context;
 import android.graphics.Color;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.temple.la4color">
+    package="edu.temple.ColorChangeApp">
 
     <application
         android:allowBackup="true"
@@ -10,11 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".CanvasActivity"
+            android:name="edu.temple.ColorChangeApp.CanvasActivity"
             android:label="Canvas Activity"></activity>
 
         <activity
-            android:name=".PaletteActivity">
+            android:name="edu.temple.ColorChangeApp.PaletteActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
