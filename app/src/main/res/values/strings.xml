@@ -14,7 +14,7 @@
     <string name="Cyan">Cyan</string>
     <string name="Magenta">Magenta</string>
     <string name="Transparent">Transparent</string>
-    <string name="intro">c</string>
+    <string name="intro">Choose a color</string>
     <string-array name="Colors">
         <item>Red</item>
         <item>Yellow</item>
