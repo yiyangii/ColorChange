@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".PaletteFragment">
+
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="404dp"
+        android:layout_height="432dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginEnd="5dp"
+        android:columnWidth="100dp"
+        android:gravity="top"
+        android:horizontalSpacing="0dp"
+        android:numColumns="3"
+        android:orientation="horizontal"
+        android:verticalSpacing="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/fragmenttext"
+        android:layout_width="match_parent"
+        android:layout_height="141dp"
+        android:gravity="center"
+        android:text="@string/intro"
+        android:textSize="25sp" />
+
+</FrameLayout>
